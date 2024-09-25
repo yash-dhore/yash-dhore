@@ -1,5 +1,4 @@
-## Hello there 🤠
-## I'm Yash Dhore
+## Hello there 🤠 I'm Yash Dhore
 
 Recently, I've been learning SQLite and F#.
 Currently, I am working on a game using JavaFX 👀 (V1.0 coming soon!)
