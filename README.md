@@ -15,6 +15,6 @@ Current Focus
 
 🎮 [BiscuitBlitzer](https://github.com/yash-dhore/BiscuitBlitzer)
 
-Version 1.0 Out Now!
+Version 1.01 Out Now!
 
 A simple and straightforward game designed using JavaFX. The project showcases my skills in Java programming and game design.
