@@ -9,7 +9,9 @@ Current Focus
 
 🛠️ Skills
 
-- Programming Languages: Java, Python, C/C++, SQL, R
+- Programming Languages: <div align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</div>
 - Frameworks & Tools: TensorFlow, Keras, JavaFX, SQLite
 - Machine Learning: Image classification, data preprocessing, model evaluation
 
