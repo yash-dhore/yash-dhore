@@ -10,7 +10,7 @@ Current Focus
 🛠️ Skills
 
 - Programming Languages: <div align="center"><img src="https://img.shields.io/badge/Java-e76916?style=for-the-badge&logo=java&logoColor=white" alt="Java"/><img src="https://img.shields.io/badge/Python-57ba75?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"><img src="https://img.shields.io/badge/C-126493?style=for-the-badge&logo=c&logoColor=white" alt="C"><img src="https://img.shields.io/badge/SQLite-475dc7?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></div>
-- Frameworks & Tools: <div align="center"><img src="https://img.shields.io/badge/Keras-ec1919?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/><img src="https://img.shields.io/badge/TensorFlow-da9539?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"><img src="https://img.shields.io/badge/Streamlit-7cd6d8?style=for-the-badge&logo=streamlit&logoColor=black" alt="Streamlit"></div>
+- Frameworks & Tools: <div align="center"><img src="https://img.shields.io/badge/Keras-ec1919?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/><img src="https://img.shields.io/badge/TensorFlow-da9539?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"><img src="https://img.shields.io/badge/Streamlit-7cd6d8?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></div>
 - Machine Learning: Image classification, data preprocessing, model evaluation
 
 🎮 [BiscuitBlitzer](https://github.com/yash-dhore/BiscuitBlitzer)
